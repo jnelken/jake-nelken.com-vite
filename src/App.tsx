@@ -45,9 +45,7 @@ function App() {
           display: 'absolute',
           bottom: '0px',
         }}>
-        <p className="help" style={{ position: 'absolute' }}>
-          Learn more
-        </p>
+        <p style={{ position: 'absolute' }}>Coming soon</p>
       </div>
     </>
   );
